@@ -1,5 +1,4 @@
-## PyTorch Implementation
-# PCRIL
+# PCRIL - pytorch Implementation
 # Prompt Contrastive Recovery for Cross Modal Hashing with Incomplete Labels
 
 ### 1. Introduction
