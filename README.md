@@ -3,7 +3,7 @@
 
 ### 1. Introduction
 
-This is the source code of paper "Exploiting Descriptive Completeness Prior for Cross Modal Hashing with Incomplete Labels" submitted to NeurIPS 2024.
+This is the source code of paper "Exploiting Descriptive Completeness Prior for Cross Modal Hashing with Incomplete Labels" accepted by NeurIPS 2024.
 
 ### 2. Requirements
 
