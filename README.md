@@ -1,9 +1,9 @@
 # PCRIL - pytorch Implementation
-# Prompt Contrastive Recovery for Cross Modal Hashing with Incomplete Labels
+# Exploiting Descriptive Completeness Prior for Cross Modal Hashing with Incomplete Labels
 
 ### 1. Introduction
 
-This is the source code of paper "Prompt Contrastive Recovery for Cross Modal Hashing with Incomplete Labels" submitted to NeurIPS 2024.
+This is the source code of paper "Exploiting Descriptive Completeness Prior for Cross Modal Hashing with Incomplete Labels" submitted to NeurIPS 2024.
 
 ### 2. Requirements
 
@@ -62,4 +62,3 @@ python main.py
 ```
 To run on other datasets, currently you need to change configurations in settings.py.
 We will add configs for other datasets soon.
-
